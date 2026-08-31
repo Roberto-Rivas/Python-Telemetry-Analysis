@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('log.csv')
+df = pd.read_csv('log_7.csv')
 
 #plotting time and altitude
 plt.figure()
